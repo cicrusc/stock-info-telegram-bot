@@ -31,9 +31,13 @@ fun saveFeedback(userId: Long, feedback: String) {
 fun loadSearchCounts(): MutableMap<Long, Int> {
     val file = File("searchCounts.properties")
     val properties = Properties()
-    if (file.exists()) {
+
+    if (!file.exists()) {
+        file.createNewFile()
+    } else {
         properties.load(file.reader())
     }
+
     return properties.entries.associate { (key, value) ->
         key.toString().toLong() to value.toString().toInt()
     }.toMutableMap()
