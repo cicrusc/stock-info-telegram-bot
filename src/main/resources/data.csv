@@ -1,0 +1,151 @@
+Symbol,Name,Stock Exchange,Stock Exchange (MIC),Country
+MSFT,Microsoft Corporation,NASDAQ Stock Exchange,XNAS,USA
+AAPL,Apple Inc,NASDAQ Stock Exchange,XNAS,USA
+AMZN,Amazon.com Inc,NASDAQ Stock Exchange,XNAS,USA
+GOOG,Alphabet Inc - Class C,NASDAQ Stock Exchange,XNAS,USA
+GOOGL,Alphabet Inc - Class A,NASDAQ Stock Exchange,XNAS,USA
+BABA,Alibaba Group Holding Ltd,New York Stock Exchange,XNYS,USA
+FB,Meta Platforms Inc - Class A,NASDAQ Stock Exchange,XNAS,USA
+BRK-B,BERKSHIRE HATHAWAY INC,New York Stock Exchange,XNYS,USA
+BRK-A,BERKSHIRE HATHAWAY INC,New York Stock Exchange,XNYS,USA
+VOD,Vodafone Group plc,NASDAQ Stock Exchange,XNAS,USA
+V,Visa Inc - Class A,New York Stock Exchange,XNYS,USA
+JPM,JPMorgan Chase & Company,New York Stock Exchange,XNYS,USA
+JNJ,Johnson & Johnson,New York Stock Exchange,XNYS,USA
+WMT,Walmart Inc,New York Stock Exchange,XNYS,USA
+MA,Mastercard Incorporated - Class A,New York Stock Exchange,XNYS,USA
+PG,Procter & Gamble Company,New York Stock Exchange,XNYS,USA
+TSM,Taiwan Semiconductor Manufacturing,New York Stock Exchange,XNYS,USA
+CHT,Chunghwa Telecom,New York Stock Exchange,XNYS,USA
+RHHBF,Roche Holding AG,OTC Markets,OTCM,USA
+RHHVF,Roche Holding AG,OTC Markets,OTCM,USA
+T,AT&T Inc,New York Stock Exchange,XNYS,USA
+UNH,Unitedhealth Group Inc,New York Stock Exchange,XNYS,USA
+BAC,Bank Of America Corp,New York Stock Exchange,XNYS,USA
+HD,Home Depot Inc,New York Stock Exchange,XNYS,USA
+INTC,Intel Corp,NASDAQ Stock Exchange,XNAS,USA
+KO,Coca-Cola Company,New York Stock Exchange,XNYS,USA
+VZ,Verizon Communications Inc,New York Stock Exchange,XNYS,USA
+RHHBY,Roche Holding AG,OTC Markets,OTCM,USA
+XOM,Exxon Mobil Corp,New York Stock Exchange,XNYS,USA
+DIS,Walt Disney Co (The),New York Stock Exchange,XNYS,USA
+MRK,Merck & Co Inc,New York Stock Exchange,XNYS,USA
+NVS,Novartis AG,New York Stock Exchange,XNYS,USA
+CMCSA,Comcast Corp - Class A,NASDAQ Stock Exchange,XNAS,USA
+PFE,Pfizer Inc,New York Stock Exchange,XNYS,USA
+PEP,PepsiCo Inc,NASDAQ Stock Exchange,XNAS,USA
+TM,Toyota Motor Corporation,New York Stock Exchange,XNYS,USA
+CVX,Chevron Corp,New York Stock Exchange,XNYS,USA
+ADBE,Adobe Inc,NASDAQ Stock Exchange,XNAS,USA
+CSCO,Cisco Systems Inc,NASDAQ Stock Exchange,XNAS,USA
+WFC,Wells Fargo & Company,New York Stock Exchange,XNYS,USA
+NVDA,NVIDIA Corp,NASDAQ Stock Exchange,XNAS,USA
+NFLX,Netflix Inc,NASDAQ Stock Exchange,XNAS,USA
+ORCL,Oracle Corp,New York Stock Exchange,XNYS,USA
+BA,Boeing Company,New York Stock Exchange,XNYS,USA
+CHL,China Mobile Ltd ADR,New York Stock Exchange,XNYS,USA
+CRM,Salesforce Inc,New York Stock Exchange,XNYS,USA
+SAP,Sap SE,New York Stock Exchange,XNYS,USA
+MCD,McDonald`s Corp,New York Stock Exchange,XNYS,USA
+NKE,Nike Inc - Class B,New York Stock Exchange,XNYS,USA
+ABT,Abbott Laboratories,New York Stock Exchange,XNYS,USA
+C,Citigroup Inc,New York Stock Exchange,XNYS,USA
+MDT,Medtronic Plc,New York Stock Exchange,XNYS,USA
+HSBC,HSBC Holdings plc,New York Stock Exchange,XNYS,USA
+TSLA,Tesla Inc,NASDAQ Stock Exchange,XNAS,USA
+COST,Costco Wholesale Corp,NASDAQ Stock Exchange,XNAS,USA
+BMY,Bristol-Myers Squibb Company,New York Stock Exchange,XNYS,USA
+HSBC/PA,HSBC HOLDINGS PLC ADR EACH REPR 1/40 PREF SERIES ',New York Stock Exchange,XNYS,USA
+PYPL,PayPal Holdings Inc,NASDAQ Stock Exchange,XNAS,USA
+PM,Philip Morris International Inc,New York Stock Exchange,XNYS,USA
+NEE,NextEra Energy Inc,New York Stock Exchange,XNYS,USA
+ABBV,Abbvie Inc,New York Stock Exchange,XNYS,USA
+LLY,Lilly(Eli) & Company,New York Stock Exchange,XNYS,USA
+AMGN,AMGEN Inc,NASDAQ Stock Exchange,XNAS,USA
+SNY,Sanofi,NASDAQ Stock Exchange,XNAS,USA
+TMO,Thermo Fisher Scientific Inc,New York Stock Exchange,XNYS,USA
+ASML,ASML Holding NV,NASDAQ Stock Exchange,XNAS,USA
+AZN,Astrazeneca plc,New York Stock Exchange,XNYS,USA
+ACN,Accenture plc - Class A,New York Stock Exchange,XNYS,USA
+IBM,International Business Machines Corp,New York Stock Exchange,XNYS,USA
+HON,Honeywell International Inc,New York Stock Exchange,XNYS,USA
+UTX,UNITED TECHNOLOGIES CORP,New York Stock Exchange,XNYS,USA
+TOT,TotalEnergies SE,New York Stock Exchange,XNYS,USA
+AVGO,Broadcom Inc,NASDAQ Stock Exchange,XNAS,USA
+TXN,Texas Instruments Inc,NASDAQ Stock Exchange,XNAS,USA
+NVO,Novo Nordisk,New York Stock Exchange,XNYS,USA
+UNP,Union Pacific Corp,New York Stock Exchange,XNYS,USA
+RY,Royal Bank Of Canada,New York Stock Exchange,XNYS,USA
+BP,BP plc,New York Stock Exchange,XNYS,USA
+LMT,Lockheed Martin Corp,New York Stock Exchange,XNYS,USA
+AMT,American Tower Corp,New York Stock Exchange,XNYS,USA
+LIN,Linde Plc.,New York Stock Exchange,XNYS,USA
+GSK,GSK Plc,New York Stock Exchange,XNYS,USA
+DHR,Danaher Corp,New York Stock Exchange,XNYS,USA
+CHTR,Charter Communications Inc - Class A,NASDAQ Stock Exchange,XNAS,USA
+HDB,HDFC Bank Ltd,New York Stock Exchange,XNYS,USA
+GE,General Electric Company,New York Stock Exchange,XNYS,USA
+SBUX,Starbucks Corp,NASDAQ Stock Exchange,XNAS,USA
+BUD,Anheuser-Busch InBev SA/NV,New York Stock Exchange,XNYS,USA
+GILD,Gilead Sciences Inc,NASDAQ Stock Exchange,XNAS,USA
+TD,Toronto Dominion Bank,New York Stock Exchange,XNYS,USA
+SHI,Sinopec Shanghai Petrochemical Co. Ltd,New York Stock Exchange,XNYS,USA
+QCOM,Qualcomm Inc,NASDAQ Stock Exchange,XNAS,USA
+AXP,American Express Company,New York Stock Exchange,XNYS,USA
+RDS.A,ROYAL DUTCH SHELL ADR EA REP 2 CL'A' EUR0.07,New York Stock Exchange,XNYS,USA
+FIS,Fidelity National Information Services Inc,New York Stock Exchange,XNYS,USA
+BTI,British American Tobacco Plc,New York Stock Exchange,XNYS,USA
+MMM,3M Company,New York Stock Exchange,XNYS,USA
+LOW,Lowe`s Cos. Inc,New York Stock Exchange,XNYS,USA
+DEO,Diageo plc,New York Stock Exchange,XNYS,USA
+RDS.B,ROYAL DUTCH SHELL ADR EA REP 2 CL'B' EUR0.07,New York Stock Exchange,XNYS,USA
+CVS,CVS Health Corp,New York Stock Exchange,XNYS,USA
+TMUS,T-Mobile US Inc,NASDAQ Stock Exchange,XNAS,USA
+MDLZ,Mondelez International Inc - Class A,NASDAQ Stock Exchange,XNAS,USA
+UPS,United Parcel Service Inc - Class B,New York Stock Exchange,XNYS,USA
+DTEGY,Deutsche Telekom AG,OTC Markets,OTCM,USA
+SNE,Sony Corporation.,New York Stock Exchange,XNYS,USA
+MO,Altria Group Inc,New York Stock Exchange,XNYS,USA
+FISV,Fiserv Inc,NASDAQ Stock Exchange,XNAS,USA
+ENB,Enbridge Inc,New York Stock Exchange,XNYS,USA
+BLK,Blackrock Inc,New York Stock Exchange,XNYS,USA
+DTEGF,Deutsche Telekom AG,OTC Markets,OTCM,USA
+TJX,TJX Companies Inc,New York Stock Exchange,XNYS,USA
+CME,CME Group Inc - Class A,NASDAQ Stock Exchange,XNAS,USA
+UN,Unilever NV,New York Stock Exchange,XNYS,USA
+SYK,Stryker Corp,New York Stock Exchange,XNYS,USA
+USB,U.S. Bancorp.,New York Stock Exchange,XNYS,USA
+INTU,Intuit Inc,NASDAQ Stock Exchange,XNAS,USA
+GS,Goldman Sachs Group Inc,New York Stock Exchange,XNYS,USA
+CI,Cigna Group (The),New York Stock Exchange,XNYS,USA
+MS,Morgan Stanley,New York Stock Exchange,XNYS,USA
+BKNG,Booking Holdings Inc,NASDAQ Stock Exchange,XNAS,USA
+DUK,Duke Energy Corp,New York Stock Exchange,XNYS,USA
+SPGI,S&P Global Inc,New York Stock Exchange,XNYS,USA
+ADP,Automatic Data Processing Inc,NASDAQ Stock Exchange,XNAS,USA
+CAT,Caterpillar Inc,New York Stock Exchange,XNYS,USA
+D,Dominion Energy Inc,New York Stock Exchange,XNYS,USA
+DCUE,Dominion Energy 7.25 06-01-22,New York Stock Exchange,XNYS,USA
+EL,Estee Lauder Cos. Inc - Class A,New York Stock Exchange,XNYS,USA
+CB,Chubb Ltd,New York Stock Exchange,XNYS,USA
+ANTM,Anthem Inc,New York Stock Exchange,XNYS,USA
+SO,Southern Company,New York Stock Exchange,XNYS,USA
+SOLN,Southern Company Unit Series A 2019,New York Stock Exchange,XNYS,USA
+BX,Blackstone Inc,New York Stock Exchange,XNYS,USA
+BDX,Becton Dickinson & Company,New York Stock Exchange,XNYS,USA
+ZTS,Zoetis Inc - Class A,New York Stock Exchange,XNYS,USA
+TFC,Truist Financial Corporation,New York Stock Exchange,XNYS,USA
+NOW,ServiceNow Inc,New York Stock Exchange,XNYS,USA
+PLD,Prologis Inc,New York Stock Exchange,XNYS,USA
+BHP,BHP Group Ltd,New York Stock Exchange,XNYS,USA
+CCI,Crown Castle Inc,New York Stock Exchange,XNYS,USA
+UL,Unilever plc,New York Stock Exchange,XNYS,USA
+ISRG,Intuitive Surgical Inc,NASDAQ Stock Exchange,XNAS,USA
+BNS,Bank Of Nova Scotia,New York Stock Exchange,XNYS,USA
+CEO,Cnooc Ltd,New York Stock Exchange,XNYS,USA
+AGN,Allergan Inc,New York Stock Exchange,XNYS,USA
+BAM,Brookfield Asset Management Ltd - Class A,New York Stock Exchange,XNYS,USA
+CL,Colgate-Palmolive Company,New York Stock Exchange,XNYS,USA
+MUFG,Mitsubishi UFJ Financial Group Inc,New York Stock Exchange,XNYS,USA
+CNI,Canadian National Railway Company,New York Stock Exchange,XNYS,USA
+RIO,Rio Tinto plc,New York Stock Exchange,XNYS,USA
